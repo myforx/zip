@@ -18,7 +18,7 @@ Unless you have to work with it, please use AES encryption instead.
 
 ## Example Encrypt Zip
 
-```
+```go
 package main
 
 import (
@@ -52,7 +52,7 @@ func main() {
 
 ## Example Decrypt Zip
 
-```
+```go
 package main
 
 import (
